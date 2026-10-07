@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SpeakToSurvive" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1E1B4B</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowBackground">#F4F5FB</item>
+    </style>
+</resources>
